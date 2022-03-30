@@ -1,0 +1,17 @@
+{
+  "name": "discord-verify-token-bot",
+  "version": "1.0.0",
+  "description": "Verify NFT Bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gentle",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "sequelize": "^6.17.0",
+    "sqlite3": "^5.0.2",
+    "web3": "^1.7.1"
+  }
+}
